@@ -75,3 +75,6 @@ Open the database in your SQL client (SQLite / MySQL / PostgreSQL).
 Run the queries from the queries.sql or analysis notebook.
 
 Explore insights and modify queries as needed.
+
+
+
